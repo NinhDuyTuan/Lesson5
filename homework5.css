@@ -1,0 +1,56 @@
+#color1{
+    color:red;
+}
+#color2{
+    color:green;
+}
+#color3{
+    color:blue;
+}
+#text{
+    color:cadetblue;
+    background-color: wheat;
+    text-align: center;
+    
+    font-size: 30px;
+}
+#box{
+    width: 200px;
+    height:200px;
+    background:wheat;
+    font-size:30px;
+    text-align:center;
+    line-height:200px;
+    border:3px solid blue;
+    border-radius: 10px;
+}
+#text2{
+    background: wheat;
+    width:400px;
+    border: 2px solid green;
+    padding: 45px 40px 45px 40px;
+}
+#a >div {
+    background:wheat;      
+    margin: 50px 60px 50px 40px;   
+  }
+#a{
+    border:1px solid black
+  }
+#display{
+    background: red;
+    display:inline;
+}
+#span1{
+    background: red;
+  }
+#span2{
+    background:yellow;
+  }
+#span3{
+    background: red;
+    display:block;
+}
+#div1{
+    background: blue;
+}
